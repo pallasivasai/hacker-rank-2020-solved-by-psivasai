@@ -1,0 +1,2 @@
+if you seen a error when u run code just import Scanner
+import java.util.Scanner;
