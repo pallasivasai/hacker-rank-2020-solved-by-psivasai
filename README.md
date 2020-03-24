@@ -1,1 +1,1 @@
-# hacker-rank-2020-sloved-by-psivasai
+# hacker-rank-2020-solved-by-psivasai
